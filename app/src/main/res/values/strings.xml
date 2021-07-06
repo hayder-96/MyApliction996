@@ -1,0 +1,838 @@
+<resources>
+    <string name="app_name">My Application996</string>
+
+
+    <string name="The_skeleton">The skeleton</string>
+    <string name="Digestive">Digestive</string>
+    <string name="The_circulatory_system">The circulatory system</string>
+    <string name="Respiratory_system">Respiratory system</string>
+    <string name="Musculature">Musculature</string>
+    <string name="Glands_and_immunomodulators">Glands and immunomodulators</string>
+
+
+
+
+
+    <string name="The_pectoralis_major_muscle"> The pectoralis major muscle </string>
+
+    <string name="The_pectoralis_major_muscle1">It is a large skeletal muscle that appears clearly under the skin in males, and is covered by the breasts in females. This muscle pulls the arm towards the body and rotates the arm in the medial and pulls it forward. It is also considered one of the muscles that help the breathing process.  </string>
+
+
+
+    <string name="The_radius_muscle">The radius muscle</string>
+
+    <string name="The_radius_muscle1">It is the arm muscle that works to flex the arm and the elbow joint
+This muscle is also able to accomplish both movements of the hand, i.e. directing the palm of the hand to the ground and the movement of the extension of the hand, and this depends on the position of the arm
+This muscle is connected to the distal acylar protuberance of the radius bone (the styloid appendix of the radius) via the humeral-radial ligament, as well as to the lateral letter above the humeral condyle of the humerus. The humeral-pronator muscle bends the arm at the elbow joint. When the arm is in the prone position - that is, facing the ground - the muscle tends to make the countermove, which is the arm extension movement wherever it is bent. In the extension of the arm, the muscle tends to perform the reverse movement, which is the pronation of the arm when it is also bent.</string>
+
+
+
+
+    <string name="Quadriceps_muscle">Quadriceps_muscle</string>
+
+    <string name="Quadriceps_muscle1">It is a group of large muscles that are found on the front of the thigh and it includes the four dominant muscles in that area. It is the large extensor muscle of the knee and forms a large lumpy mass to protect the front part of the thigh bone. The quadriceps muscle is divided into four main parts, or "heads", each of which has a distinct name:
+
+    The rectus femoris muscle occupies the middle of the thigh and covers most of the other three muscles of the thigh. This muscle originates from the ilium (hip) and gets its name from its straight line.
+
+ * The other three muscles are located under the rectus thigh muscle and arise from the body of the thigh bone and cover it from the large and small trochanter to the medial and lateral femoral condyles.
+    The vastus lateralis muscle is located on the lateral (outer) side of the thigh bone The medial widened muscle is located on the medial (inner) side of the thigh bone.
+    The medial vastus muscle is located between the medial dilator muscle and the medial widened muscle on the front of the thigh bone (that is, on the upper or anterior part of the thigh), but deeper than the rectus femur. It usually cannot be seen without incision (cutting) the rectus femoral muscle
+
+</string>
+
+
+
+
+    <string name="The_iliac_muscle">The iliac muscle</string>
+    <string name="The_iliac_muscle1">It is a flat muscle that fills the iliac fossa.
+
+    Origin: from the iliac fossa, its upper section.
+    Anchor: Its fibers run toward the luteum behind the inguinal ligament and are brutal to the psoas and anchored to the trochanter.
+    Innervation: the femoral nerve, branch of the lumbar plexus.
+    the work:
+
+    Flexion of the hip over the pelvis at the level of the hip joint.
+    Turn it medially and when the thigh is still, it turns the trunk over the thigh </string>
+
+
+
+    <string name="deltoid"> deltoid</string>
+
+
+    <string name="deltoid1">In human anatomy, it is the muscle that makes up the shoulder contour rotation. In the past, this muscle was called Daltoids, and some anatomists still use this name. The deltoid muscle is named after the triangle-shaped letter of the deltoid in the ancient Greek alphabet. The deltoid muscle forms the connection site between the muscles of the anterior fibers: the anterior fibers of the deltoid muscle separate the shoulder if it is in a rotating position. The anterior fibers of the deltoid muscle are weak during transverse contractility, but the pectoralis major muscle and shoulder assist in transverse contraction Extrinsic fibers: The external fibers of the deltoid muscle provide transverse relaxation. In particular, the deltoid transverse muscle is weak in the transverse relaxation process.
+
+Lateral fibers: the lateral fibers of the deltoid muscle separate the shoulder and contract it in the position of internal rotation and also perform a transverse shoulder distraction movement
+
+  </string>
+
+
+
+
+
+    <string name="The_calcaneus_muscle">The calcaneus muscle</string>
+
+    <string name="The_calcaneus_muscle1">It is a group of three pairs of muscles located on the lateral side of the neck: the anterior, intermediate and posterior malleolus. Nerves these muscles: the fourth, fifth, and sixth spinal nerves (C4-C6)
+
+The anterior malleolus and the middle molar raise the first rib and the neck flexes towards their side; The posterior plantar raises the second rib and turns the head towards its side.
+
+The posterior plantar muscle raises the second rib and turns the head towards it.
+
+The plantar muscles play an auxiliary role in breathing, because they raise the first and second ribs, as well as the epithelial muscles.</string>
+
+
+
+
+
+
+
+
+    <string name="The_twitch_muscle">The twitch muscle</string>
+    <string name="The_twitch_muscle1"> It is a muscle of the lower extremity of the human body. This muscle is implanted in the tendon of the obturator muscle, with which the nerve connecting to the quadriceps muscle is connected mainly to the rotation of the thigh bone (the hip joint)</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="the_tongue">the tongue</string>
+    <string name="the_tongue1">The tongue is divided into four areas for taste: 1- The area of ​​taste and sense of sweet foods such as sugars and some types of amino acids, and this area is found at the front end and the first third of the tongue
+
+2- The acid-tasting area, which is found on the left and right sides of the tongue.
+
+3- Citrus tasting zone, located at the front end of the tongue.
+
+4- As for the fourth zone, which is responsible for tasting bitter foods, there is at the back the last third of the tongue.
+
+</string>
+
+
+
+
+
+
+
+
+
+
+    <string name="throat"> throat</string>
+    <string name="throat1">The sound originates in the larynx, and also in it the volume and intensity of the voice is controlled, and this matter contributes to the force of exhalation from the lungs (loudness).
+
+Laryngeal tuning of sound is used to generate sound of a specific fundamental frequency or pitch. This sound undergoes changes as it passes through the vocal tract, depending on the position of the tongue, lips, mouth and throat. The changes to which the voice exiting the larynx undergoes as it passes through the vocal tract filter, these changes create the different linguistic sounds (consonants and vowels) found in different world languages ​​as well as tone through conscious processes of stress and linguistic melody. In addition, the larynx has a similar function to the lungs in creating the pressure differences required to produce sound, as the constricted larynx may rise or They are reduced, affecting the size of the oral cavity and are necessary for static sounds originating in the glottis. The two vocal folds can converge (by approximating the two premolar cartilages), allowing them to vibrate.
+ The muscles associated with the arytenoid adenoids control this process by controlling the degree of openness. The length and tension of the vocal fold can also be controlled by shaking the thyroid cartilage back and forth on the cricoid cartilage (either directly through contraction of the cricothyroid muscle or
+
+   Indirectly, by changing the position of the larynx vertically) by adjusting the tension of the muscles located within the vocal folds and by moving the arytenoid cartilages
+Forwards and backwards, this causes the voice to rise or fall during the voting process. In most males, the vocal folds are longer and more massive than in most females, and this results in a lower pitch in males. The vocal system consists of two pairs of mucosal folds, these are a pair of false vocal folds (vestibular folds) and a pair of true vocal folds The two false vocal folds (vestibular) are covered by a respiratory epithelium while the true vocal folds (vocal folds) are
+Covered by flat stratum epithelium. It should be understood that the false (vestibular) fold is not responsible for sound production but is responsible for resonance. There is an exception to the above that occurs in the Tibetan hymn and the kargira, which is a form of tovy singing emanating from the throat. Both of the previous styles use false vocal folds to create a faint voice. It is worth noting that the false vocal folds do not contain muscles, while the true vocal folds do contain skeletal muscles.
+
+</string>
+
+
+
+
+
+
+
+    <string name="Liver">Liver</string>
+
+    <string name="Liver1">An organ found only in vertebrates that detoxifies various metabolites, synthesizes proteins, and produces biochemicals needed for digestion. In humans, the liver is located in the right upper quadrant of the abdomen, below the diaphragm. Its other roles in metabolism include: regulating glycogen storage, the breakdown of red blood cells, and the production of hormones. The liver is an attached digestive gland that produces bile (an alkaloid compound that helps break down fats). Bile aids digestion by emulsifying fats. The bile produced by the liver is stored in the gallbladder - a small sac located under the liver - then it travels to the small intestine to complete the digestive process. The highly specialized liver tissue consists of hepatocytes, which regulate a wide range of
+
+   Large-scale biochemical reactions, including the synthesis and breakdown of small and complex molecules, many of which are necessary for normal biological functions. Estimates of the total number of liver functions vary.
+ But textbooks generally state that it is about 500 jobs. Often there is no known way yet to compensate for the absence of liver function in the long term, although hepatic dialysis techniques can be used in the short term. No artificial livers have been developed to promote long-term replacement in the absence of a liver. As of 2018, liver transplantation is the only option for complete liver failure.
+
+</string>
+
+
+
+
+
+
+    <string name="esophagus">esophagus </string>
+    <string name="esophagus1">A vertebrate organ through which food from the pharynx passes into the stomach, with the help of peristaltic contractions. The esophagus is a muscular, fibrous tube, about 25 cm long in adult humans. The esophagus passes behind the trachea, heart, and through the diaphragm until it opens to the upper part of the stomach. During swallowing, the epiglottis retracts back and blocks the entrance to the larynx, preventing food from entering the airway.
+
+</string>
+
+
+
+
+    <string name="Stomach">Stomach</string>
+    <string name="Stomach1"> It is a hollow, muscular organ that forms part of the digestive system of humans and many animals, including many invertebrates. The stomach has an expandable structure, and it has an important role in the digestive process, as it participates in the second stage of it after chewing.
+
+In humans and many animals, the stomach is located between the esophagus and the small intestine. The stomach secretes digestive enzymes and stomach acid to help digest food. The pyloric sphincter controls the passage of partially digested foods (chyme) from the stomach into the duodenum, as peristalsis moves it through the rest of the intestine. In adult humans, the volume of a relaxed, empty stomach is approximately 75 milliliters. Because it is an expandable organ, it usually expands to contain about one liter of food. A newborn\'s stomach is only able to hold about 30 milliliters, while it ranges
+
+ The maximum stomach volume in an adult is between 2 and 4 liters. In the human digestive system, the condyle (a small, round mass of chewed food) enters the stomach through the esophagus by the lower esophageal sphincter.
+The stomach releases proteases (enzymes that digest protein such as pepsin that break down proteins into polypeptides) and hydrochloric acid.
+Food is moved through the stomach through muscle wall contractions called peristalsis, which reduces the size of the condyle, before reaching the fundus.
+And the stomach body, where the morsels are converted into chyme (partially digested food). The chyme passes slowly through the pyloric sphincter into the duodenum and then the small intestine, where nutrient extraction begins.
+The stomach digests food into chyme in a period ranging from forty minutes to several hours, depending on the quantity and contents of the meal.
+
+</string>
+
+
+
+
+    <string name="The_spleen">The spleen</string>
+
+
+    <string name="The_spleen1"> It is an organ found in humans as well as in all vertebrate animals.
+
+In humans, the spleen is a single organ, and it is the largest single mass of lymph tissue in the body. Its color tends to be red. It mainly works as a blood filter, and a person can live normally after removing the spleen, whether as a result of an accident or as a treatment procedure.
+
+It is a lymphoid organ in which there are several pockets filled with blood, eat cells and lymph cells. The spleen is a main store of blood (as it can store 1/5 to 1/4 of a person\'s blood), as it stores blood in a concentrated form, and empties it into the circulatory system in emergency situations such as bleeding, the spleen By regulating the amount of blood passing through the blood vessels.
+
+ The spleen stores the impurities and microbes in the blood thanks to the many pockets and blood spaces lined with phagocytes.
+The spleen is the cemetery of red blood cells, and it should be noted that red blood cells die before they reach the spleen and are not in it, but are buried in it.
+The spleen plays a role in immunity thanks to the lymph nodes (Malpighi cells) that make lymphocyte white blood cells, as the spleen contains clots of white blood cells called lymphocytes that release special proteins in the blood, and these proteins are called antibodies that fight bacteria, viruses and any other substances that cause Infection, and the spleen kills parasites and bacteria by macrophages (large cells found in spongy spaces).</string>
+
+
+
+
+
+    <string name="Pancreas">Pancreas</string>
+    <string name="Pancreas1">A gland about seven inches in size that connects to the small intestine, is located near the stomach and deep in the upper back of the abdomen, opposite the spine. The pancreas is very necessary for the digestive process, because the alveolar glands in the pancreas secrete pancreatic juice in the duodenum. This juice contains enzymes that help digest proteins, fats and carbohydrates before they can be absorbed through the intestine. The pancreas also contains endocrine glands known as the Langerhans Islands, which contain beta-class cells that secrete the hormone insulin that lowers blood sugar levels. It also contains alpha-class cells that secrete a hormone known as glucagon, which has an effect opposite to that of insulin, which increases blood sugar concentrations.</string>
+
+
+
+
+    <string name="Small_intestine">Small intestine</string>
+
+
+    <string name="Small_intestine1">It is a part of the gastro-intestinal tract in the form of a coiled tube that begins at the outlet of the stomach and ends at the beginning of the large intestine, its length is about 6 meters, and there are minute bends that increase its internal surface and thus increase the absorption of nutrients that are transported into the blood and from it to all cells of the body.
+
+</string>
+
+
+
+
+
+
+    <string name="Large_intestine"> Large intestine</string>
+    <string name="Large_intestine1">The last part of the digestive system in vertebrates. Its main function is to absorb water from the remaining solids and then pass the excess waste out of the body.</string>
+
+
+
+
+
+
+
+    <string name="Duodenum">Duodenum</string>
+
+    <string name="Duodenum1">The duodenum is largely responsible for breaking down food in the small intestine, using enzymes. Duodenal villi have a leaf-like appearance and are a structure that can be identified histologically. The Brunner glands that secrete mucus are found in the duodenum only. The duodenum wall is made of a thin layer of cells that make up the mucous muscle. It is worth noting that the duodenum is mostly retroperitoneal.
+The duodenum also regulates the rate of stomach emptying via hormonal pathways.
+
+Cholecystokinin is secreted from its epithelial cells in response to the acid and fat stimuli present there. The pylorus opens and the infectious chyme is released in the duodenum to be further digested in the remainder of the digestive tract. This causes the liver and gallbladder to release bile, and the pancreas to bicarbonate and digestive enzymes such as trypsin, lipase, and amylase to the duodenum lumen as required.
+
+</string>
+
+
+
+
+
+    <string name="Rectal">Rectal </string>
+
+    <string name="Rectal1">The rectum serves as a temporary storage site for stool, and when the walls of the rectum expand; Because it is filled with substances from inside, stretch receptors in the walls of the rectum stimulate the urge to have a bowel movement. And if this desire is not met, those substances in the rectum are often returned to the colon, where more water is absorbed from the stool, and delayed defecation for a long time, leads to constipation and hardening of the stool.
+
+When the rectum fills completely, the increase in pressure inside the rectum pushes the walls of the anal canal, allowing stool to enter the canal, and then the rectum shortens in length, which pushes the stool into the anal canal with the help of the appendicular movement of the rectum. The internal and external anal sphincter allows stool to pass by pulling the muscles into the anal opening above the outside stool.</string>
+
+
+
+
+
+
+
+
+    <string name="Appendix">Appendix</string>
+    <string name="Appendix1">It is a small piece at the end of the cecum, cylindrical in shape, with a blocked end, located at the beginning of the large intestine, and it has an immunological benefit as it contains lymph tissue that works to filter foreign bacteria and viruses and create immunity against them. The large intestine and the small intestine intersect, and the appendix branches out of which the true function is unknown; But it does play a role in mucosal immunity or as a storage site for plant digestive substances that supply them to the intestine if needed.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="Trachea">Trachea</string>
+    <string name="Trachea1">It is a passage found in the respiratory system that carries air between the lungs and the upper respiratory passages. The diameter of the trachea in humans is 2.5 cm, and its length is approximately 13 cm. The trachea is divided into two halves, one located in the neck and the other in the chest. There are a number of cartilages that help maintain the tracheal opening. In the end, the trachea branches off into two main bronchi, each of which goes to one of the lungs, where air arrives.</string>
+
+
+
+
+    <string name="Lung">Lung</string>
+    <string name="Lung1">The function of the lungs is to capture oxygen from the atmosphere and transport it inside them (i.e. inside the lungs) into the bloodstream, and to release carbon dioxide from the bloodstream to the atmosphere, in a process called gaseous exchange. It is reported that the right lung is larger than the left, because the left part shares its area with the heart. The lungs together weigh about 1.3 kg, and the right lung is usually heavier.
+
+</string>
+
+
+
+
+    <string name="Pulmonary_artery">Pulmonary artery</string>
+
+    <string name="Pulmonary_artery1">An artery exits from the right ventricle of the heart and then divides into two left and right branches: the right into the right lung and the left to the left. The pulmonary artery carries the blood loaded with carbon dioxide to the lungs, where there is a gaseous exchange, and this process is called the micro-circulation. The blood that is not purified from the right ventricle to the lungs rises up and back to the right side of the aorta and divides under the arch of the aorta into the left and right pulmonary arteries, each one of them enters the lung facing it, so the pulmonary trunk has the structure and function of the arteries, but it carries impure blood.</string>
+
+
+
+
+
+
+
+
+
+    <string name="Pulmonary_vein">Pulmonary vein</string>
+
+    <string name="Pulmonary_vein1">The pulmonary vein is a blood vessel in the circulatory system that carries blood from the lungs to the heart\'s left atrium.
+
+People have four pulmonary veins. Uncommonly, venules deliver oxygenated blood while pulmonary arteries deliver deoxygenated blood. As most of the body’s veins transport deoxygenated blood.
+
+Ibn al-Nafis was the first to discover the pulmonary veins and knew their function
+
+</string>
+
+
+
+
+
+
+    <string name="Diaphragm">Diaphragm</string>
+
+    <string name="Diaphragm1">A muscle located under the rib cage or a muscle barrier separating the rib cage and the abdominal cavity (stomach, liver, intestine), which is a voluntary muscle, but it can move without controlling it voluntarily as well. A person can control the speed of breathing, so commands are sent from the movement area in the cerebral cortex, and during sleep the commands continue from the breathing centers in the brain that are located in both the medulla oblongata and the bridge.It is a large muscle attached to the lower ribs, and separates the chest from the abdomen. It is the main muscle used for breathing, and it has a dome shape. A complete diaphragm is only found in humans and other mammals. During inhalation: the diaphragm contracts and falls down, causing the rib cage to expand and generate negative pressure that helps air enter the lungs.
+    During exhalation: the diaphragm rises and expels air.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="heart">heart</string>
+
+    <string name="hear1">A muscular organ in humans and other animals, it pumps blood through the blood vessels into the circulatory system. The blood supplies the body with oxygen and nutrients, and helps remove metabolic waste products. In humans, the heart is located between the lungs. In the middle chamber of the chest, we divide the heart in humans, other mammals and birds into four chambers: the upper two are the left and right atria, and the two lower ones are the left and right ventricles.The right atrium and ventricle are usually referred to as the right heart, and the left atrium and ventricle are also referred to as the left heart. The hearts of fish, on the contrary, contain only two chambers, the atria and the ventricle, while the hearts of reptiles contain three chambers. In a healthy heart, blood flows in one direction through the heart thanks to the presence of heart valves, which prevent it from flowing in the opposite direction. The heart is surrounded by a hollow sac for protection. The inside of this sac contains a small amount of fluid. The walls of the heart have three layers: the epicardium, the myocardium, and the endocardium.</string>
+
+
+
+
+    <string name="Pericardium">Pericardium</string>
+
+    <string name="Pericardium1">It is a type of serous membrane, and it is a thin-walled sac that surrounds the heart to give it room to move without being hurt by friction. The pericardium envelops the outside of the heart and a section of large blood vessels that enter or leave the heart. It consists of three layers: The outer layer consists of a strong fibrous tissue that fuses with the roots of the large blood vessels from the top and the upper surface of the diaphragm muscle from below, and inside of this layer there are two other pericardial layers. They are two thin prayer layers And they are called the serous tamour. The inner layer is attached to the surface of the heart and is called the visceral layer, while the second layer lines the outer fibrous layer of the pericardium and is called the parietal layer. Between these two serous layers there is a cavity with enough fluid that facilitates contraction and relaxation of the heart with minimal friction. In addition to this function, the pericardium maintains the heart and helps it remain in its normal position in the body.
+
+</string>
+
+
+
+
+    <string name="Aorta">Aorta</string>
+
+    <string name="Aorta1">It is the largest artery in the human body. It exits from the left ventricle from the front to the left of the pulmonary artery, and goes up and to the right behind the pulmonary artery. It distributes oxygenated blood to all parts of the body through the major circulation that begins in the left ventricle and ends in the right atrium. It is the main artery in the body that feeds all over the body. It begins in the form of a large arc with a diameter of about two and a half centimeters, and begins at the base of the left ventricle behind the sternum and at the level of the left third rib cartilage and is divided into several sections.</string>
+
+
+
+
+    <string name="The_humeral_head_artery">The humeral head artery</string>
+
+    <string name="The_humeral_head_artery1">Which arises from the aortic arch. It is an artery located in the mediastinum that supplies blood to the right arm, head and neck.
+
+It is the first artery that branches from the aorta arch (aorta), then in turn branches into two arteries: the right original carotid artery and the right subclavian artery.
+
+There is no humeral cephalic artery in the left part of the body, but the left original carotid artery and the left subclavian artery originate directly from the aortic arch. However, there are two humeral cephalic veins.</string>
+
+
+
+
+    <string name="Carotid_artery">Carotid artery</string>
+
+    <string name="Carotid_artery1">It is one of the main arteries emerging from the aorta arch, which runs along the side of the neck to supply blood to the head and brain. Every person has a carotid artery on each side of the neck, the right carotid artery and the left carotid artery, and each of them runs like a primary carotid artery, each of which divides into an apparent carotid artery and a cavernous carotid artery. The carotid body is located near the branch.
+
+</string>
+
+
+
+
+
+    <string name="Coronary_artery">Coronary artery</string>
+
+    <string name="Coronary_artery1">They are the coronary arteries that carry blood to the heart muscle. It mainly consists of the left coronary artery and the right coronary artery, which branches off afterwards.
+
+The left coronary artery originates from the aorta over the left end of the aortic valve and supplies blood to the left side of the heart. The left coronary artery branches into two arteries and sometimes into a third artery known as the branch or median artery. The right coronary artery spring from above the right end of the aortic valve and moves to the right coronary sulcus, towards the heart cross.</string>
+
+
+
+
+    <string name="Subclavian_artery">Subclavian artery</string>
+    <string name="Subclavian_artery1">An artery originating from the aortic arch and the brachiocephalic artery; the subclavian arteries are connected with the major arteries in the upper rib cage and subclavian (collar bone). The subclavian arteries receive blood from the aortic arch. The left subclavian artery supplies blood to the left arm, while the right subclavian artery supplies blood to the right arm, with some branches to supply blood to the head and rib cage.</string>
+
+
+
+    <string name="Superior_vena_cava">Superior vena cava</string>
+
+    <string name="Superior_vena_cava1">A blood vessel of a large, but short diameter, is the vein that carries blood from the upper end of the body to the right atrium of the heart. It is located in the upper anterior mediastinum.
+
+The superior vena cava carries impure blood from the head, neck, upper extremities, the wall of the rib cage, and the upper portion of the abdominal wall. It is about 8 cm long and consists of the left and right humeral cephalic vein in the upper part of the rib cage. It descends vertically and perforates the pericardium and opens with the right ears, which are located in the right section of the upper edge of the heart. It consists of the left and right main humeral veins, which also receive blood from the upper extremity.
+
+Eyes and neck. Before it enters the right atrium, the individual vein joins it, in the front-upper right part of the heart, which is also known as the vena cava in animals.
+
+There is no valve separating the superior vena cava from the right atrium.
+
+</string>
+
+
+
+
+
+    <string name="Inferior_vena_cava">Inferior vena cava</string>
+
+    <string name="Inferior_vena_cava1">A blood vessel that carries venous blood from the viscera and lower extremities to the heart. It carries impure blood from the lower extremities, pelvic organs, testicles, kidneys, and liver. It is located in front of the bodies of the lumbar vertebrae, ascends to the top through an opening in the central tendon of the diaphragm muscle, and opens directly above the diaphragm muscle into an opening located in the lower section of the right atrium, and this opening is surrounded by a valve that prevents the return of blood. Its length is about a centimeter in the chest, above the diaphragm muscle.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="Temporal_bone">Temporal bone</string>
+
+    <string name="Temporal_bone1">It is a double bone located in the lower lateral section of the cranium or skull, and forms part of the side and base of the skull. The temporal bones are adjacent to the front of the sphenoid bone, the back of the occipital bone, and the top of the parietal bone. The temporal bones contribute to the formation of a part of the face on each side called the temple, and they contain the organs of hearing and balance and appear on the outer face of each of the external auditory meatus. The temporal bone has five parts: the squamous part, the mastoid part, the petrous part, the tympanic part, and the styloid part
+
+</string>
+
+
+
+
+
+
+
+    <string name="Acromion">Acromion</string>
+
+    <string name="Acromion1">It is an extension of the scapula fork. The acromion and the coracoid process extend laterally over the glenohumeral joint. It articulates with the collarbone to form the acromioclavicular joint.
+
+</string>
+
+
+
+
+
+    <string name="The_radius_bone">The radius bone</string>
+
+    <string name="The_radius_bone1">It is one of the two bones in the forearm area, connecting the elbow with the wrist. The radius bone is located to the left of the ulna. The radial nerve passes through the radial canal with the deep humeral nerves.</string>
+
+
+
+
+    <string name="ulna">ulna</string>
+
+    <string name="ulna1">It is one of the long bones in humans, and it is one of two long bones inside the forearm (the other bone is the radius). It extends from the elbow to the wrist, parallel to the radius. In the standard anatomical position, when the forearm is extended down and the palm is facing forward, the ulna is located on the side closest to the body (the medial side). The ulnar may fracture in the event of an extra weight or severe impact.
+
+</string>
+
+
+
+
+
+    <string name="wishbone">wishbone</string>
+
+    <string name="wishbone1">In the anatomy of the human body as one of the long bones, which serves as a support between the scapula in the back and the sternum in the middle of the chest. There are two collarbones, one on the right and the other on the left, and it is the only long bone that lies horizontally in the human body.
+
+The collarbone and the scapula form what is known as the thoracic girdle, which is also called the shoulder girdle, which is the group of bones that connect the arm (humerus) with the axial structure on both sides in humans.
+
+The wishbone is a bodily bone. The location of the wishbone can be seen clearly as it forms a bump on the skin for some people, especially those who have less fat in this area.</string>
+
+
+
+
+
+
+    <string name="Hip_bone">Hip bone </string>
+
+    <string name="Hip_bone1">And a large, flat, flat, irregular bone, which is thick in some places, such as: the socket, and thin in other places, such as: the iliac fossa, and it is in the embryonic stage it is composed of three bones that are the upper bone called the iliac, and the front bone called the pubis, and others A posterior inferior called ischium, and fuse with each other at the acetabulum after puberty.
+
+The hip contains a synovial joint, which is the hip joint. The hip bones form the anterior and lateral wall of the pelvis in humans, while the sacrum and coccyx bones form the posterior bony wall of the pelvis. In the front, the sciatic bones are connected by a cartilaginous joint called the symphysis pubis.
+
+</string>
+
+
+
+
+    <string name="Sacrum_bone">Sacrum bone</string>
+
+    <string name="Sacrum_bone1">A large, triangular bone is located at the base of the spine in the upper back of the pelvis and is wedge-shaped between the sciatic bones, and connects at the bottom with the coccyx and at the top with the fifth lumbar vertebra.
+
+</string>
+
+
+
+
+
+    <string name="Patella">Patella</string>
+
+    <string name="Patella1">A thick, round and triangular bone articulating with the thigh bone, and it covers and protects the front part of the knee joint surface.
+
+The patella is found in most vertebrates such as mice, cats, and birds, but it is not found in whales, nor in reptiles such as snakes, nor in amphibians such as frogs.
+
+In humans, the kneecap is the largest sesamoid bone in the entire body. Babies are born with a soft cartilage patella, and then ossification begins to gradually turn into a full bone in about three years.</string>
+
+
+
+
+
+    <string name="Shin_bone">Shin bone</string>
+
+    <string name="Shin_bone1">It is the largest, strongest and anteriorly located bone between the shin bones below the knee in vertebrates (the other bone is the fibula, located behind and outside the tibia), and it connects the knee to the ankle bones. The tibia is located on the medial side (closest to the middle) of the tibia to the side of the fibula and is closer to the medial plane or central line. The shin bone is attached to the fibula bone by the interosseous membrane in the leg, forming a type of fibrous joint called very little movement syndrome. The bone is called the tibia, after the stalk of the flute. It is the second largest bone in the human body after the thigh bone. The leg bones are the strongest of the long bones as they support the rest of the body.</string>
+
+
+
+    <string name="Fibula_bone">Fibula bone</string>
+
+    <string name="Fibula_bone1">One of the two shin bones is located on the lateral side, i.e. the outer side of the leg, while the other bone, which is the shin bone, is on the medial side, i.e. the inner side of the leg.</string>
+
+
+
+
+    <string name="Backbones">Backbones</string>
+
+
+    <string name="Backbones1">The spine is made up of a series of irregular bones called vertebrae, and these vertebrae differ from each other according to the areas in which they are located in the spine, which are not the same and are called according to their regions of the 33 vertebrae arranged from top to bottom. "Atlas" or "phlegm" which is the vertebra that fixes the skull, C2 is called the "axis". Small-sized vertebrae. The thoracic vertebra consists of 12 vertebrae (T1-T12) that combine with the ribs that extend forward. The ribs form the rib cage.
+
+Medium sizes The lumbar vertebrae are 5 vertebrae (L1-L5) The vertebrae have large sacral sizes are 5 vertebrae (S1-S5) joined together to form the sacrum (conjunctiva forming one bone) The coccygeal vertebrae is 4 vertebrae (sometimes 3 or 5) attached So, the spine consists of 26 bones, including the sacrum and coccyx bones, with a length of 70 cm and is longer in men than in women. It is a non-straight column, but it has curves in different areas with the line of gravity matching the line of the spine.
+
+</string>
+
+
+
+
+
+    <string name="Wrist">Wrist</string>
+    <string name="Wrist1">A cluster bone found in quadruped vertebrates connecting the radius to the ulna on one side and the metacarpal on the other side, and the wrist is not considered part of the hand. The wrist bones are small, cubic, and lined in an even number of eight, which allow the wrist to move and rotate vertically and horizontally.</string>
+
+
+
+    <string name="Cruciate_ligament">Cruciate ligament</string>
+
+    <string name="Cruciate_ligament1">It is one of the four ligaments that connect the tibia and femur and its main function is to prevent the movement of the tibia bone backward in relation to the tibia. Surgery is used to repair the posterior cruciate ligament due to its location and technical difficulties in treatment The function of the posterior cruciate ligament is to prevent the movement of the tibia to the back side and to prevent the tilt or displacement of the patellar bone . . However, the laxity of both sections renders the posterior ligament vulnerable to injury with excessive flexion or extension of the knee joint. And because the laces are sticky and elastic; They are only able to withstand greater amounts of stress if the amount and pressure increase slowly. But when there is an excessive and sudden increase in flexion or extension, with the characteristic of the ligament viscosity, the posterior cruciate ligament is deformed or torn.
+
+</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="cerebellum">cerebellum</string>
+    <string name="cerebellum1">A major landmark in the hindbrain of all vertebrates. Although it is usually smaller than the brain, in some animals such as the gnostic fish it may be as large as the brain or even larger. In humans, the cerebellum plays an important role in motor control and may also be involved in some cognitive functions such as attention and language, as well as in regulating responses to satisfaction and fear, but its associated functionsMovement is the most established. The human cerebellum does not initiate movement, but rather contributes to its coordination, accuracy and timing: it receives input from the sensory systems of the spinal cord and other parts of the brain, and then makes some adjustments to these inputs to fine-tune motor activity. In humans, cerebellar damage leads to disturbances in fine movement, balance, posture, and learning of movement</string>
+
+    
+    
+    
+      <string name="The_brain">The brain</string>
+    <string name="The_brain1">It is the largest and most important section of the central nervous system, as it is made up of two hemispheres, two separate cerebellies, linked by a nerve bridge (a wide bundle of white nerve fibers) that meet these bundles in the form of a body, which we call the corpus callosum. The brain is concerned in general with cognitive, sensory, and mental functions, language functions, and the importance of the cerebral cortex consisting of
+    The frontal lobe and contains the voluntary movement centers and some memory and speech centers The parietal lobe and it controls a large number of sensory functions, such as the sensation of heat, cold, pressure, or pain
+    The occipital lobe, also called the occipital lobe, has sensitive centers that control the sense of sight
+    The temporal lobe contains the centers of the sense of smell and taste as well as the center of hearing
+    The island lobe is so called because it is covered by the frontal and parietal lobes. The left brain is responsible for
+    the words
+    Numbers
+    Logic
+    Analysis
+    Arrangement
+    Lists
+The right brain is responsible for
+  Consistency
+    Colors
+    Imagination
+    Daydream
+    Dimensions
+    Melodies</string>
+
+
+
+    <string name="Bone_marrow">Bone marrow</string>
+
+    <string name="Bone_marrow1">It is part of the central nervous system that starts at the base of the brain (specifically from the medulla oblongata) and passes through the vertebral tunnel (or intervertebral canal) of the spine, and extends to the space between the first and second lumbar vertebrae, which is tubular in shape and consists of a bundle of nerves that are an extension of the system The central nervous system of the brain, and it is protected by a group of bones called the spine. The main function of the spinal cord is to carry nerve impulses to and from the brain and connect them to the branch\'snerves It is a long extension of the spinal nerves, about 45 cm long in the vertebral canal in the vertebrae. It has an important role in transmitting electrical signals to and from the brain as it conducts electrical signals from the brain to the muscles if a person wants to move his hand, for example, and does the reflex action if he touches A person is a hot body, as it orders the muscles to move before they reach the brain, which is surrounded by three protective membranes, such as the brain The spinal cord consists of two distinct areas: a central gray area and a peripheral white area. Injury to the spinal cord (or spinal cord) results in myelopathy or damage to the white matter or myelinated nerve fibers that transmit sensation and motor signals to and from the brain. The injury may also damage the gray matter in the central part of the spinal cord, leading to loss of intercostal neurons or motor neurons.
+
+  </string>
+    
+
+
+    <string name="Cingoid_gyrus"> Cingoid gyrus </string>
+
+    <string name="Cingoid_gyrus1">It is a section of the brain located on the medial side of the cerebral cortex. The cingulate cortex includes the entire cingulate gyrus that lies directly above the corpus callosum, and continues up to the cingulate furrow. The cingulate cortex is usually part of the limbic lobe
+It receives input from the hypothalamus and the neocortex, and transfers it to the entorhinal cortex via the belt. It is an important part of the limbic system responsible for forming and processing emotion, learning, and memory The combination of these three functions makes the cingulate gyrus highly influential in linking the motivational outcomes of the behavior (for example, a specific activity triggers a positive emotional response, which ultimately leads to learning). This role increases the importance of the cingulate cortex in disorders such as depression and schizophrenia. It plays a role in executive function and breathing control as well.  </string>
+    
+
+
+
+
+    <string name="Corpus_callosum">Corpus callosum</string>
+
+    <string name="Corpus_callosum1">It is a wide flat bundle of nerve fibers white under the cortex in the longitudinal slit of the brain, extending several centimeters from front to back, and it is the largest structure of white matter in the brain, and it consists of millions of nerve fibers that connect the left and right spherical hemispheres of the brain and facilitate communication between them. Information is transmitted between them in the form of electrical signals, and for this reason it is also known as the "super coupler". It is the largest white matter structure in the brain, containing 200-250 million corresponding axon projections.
+
+  </string>
+    
+
+
+
+
+
+    <string name="Frontal_lobe">Frontal lobe</string>
+
+    <string name="Frontal_lobe1">The executive function of the frontal lobes relative to the front of the head includes the ability to distinguish future consequences of current behaviors, the ability to choose between good and bad (or good and better behaviors), ignore or suppress negative social reactions, and identify similarities and differences between things or events So it is involved in higher mental functions. The frontal lobes also play an important part in retaining memories that are not dependent on tasks for a longer term, and these memories are often associated with emotions or emotions derived from the input of the limbic brain system, where the frontal lobe modifies these emotions to conform to generally accepted socially accepted principles. Psychological tests that measure frontal lobe functions include: finger methods, the Wisconsin Card Scoring Test (WCST), and the measurement of form fluency and verbal fluency.  </string>
+
+
+
+
+    <string name="Pineal_gland">Pineal gland </string>
+
+
+     <string name="Pineal_gland1"> It is located within a bony cavity in the human skull below the brain, behind the pituitary gland, and is the size of a pea (7.2 mm in a human). The color of the pineal gland is reddish-gray and appears evident mostly in the X-ray of the skull. The name of the pineal gland was associated in ancient times with the center of the human soul, but at the present time the pineal gland is still the subject of research. The following has been proven: She is responsible for the changing psychological state of humans, and she is responsible for organizing time, and for the sexual state. It has been observed that subversion of the area leads to precocious puberty. It also works to prevent oxidation by melatonin, which it secretes directly into the blood after exposure to darkness, especially during sleep. Melatonin prevents tumors from forming.   </string>
+
+
+
+
+    <string name="Hypothalamus">Hypothalamus</string>
+
+    <string name="Hypothalamus1"> The thalamus is a large mass of gray matter in the dorsal part of the dorsal brain, which is part of the brain. Its functions are: re-transmitting sensory signals, such as: transmitting motor signals to the cerebral cortex, and regulating consciousness, sleep and wakefulness.
+ It is located on both sides of the third ventricle in the form of two oval bodies. The thalamus is located above the hypothalamus, next to the center of the hemisphere. It acts as a connecting station for a lot of information entering and leaving the cerebral cortex
+The thalamus is primarily responsible for the production of the embryonic interface brain, as the anatomist Wilhelm pointed out to him in 1893.  </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="Adrenal">Adrenal</string>
+
+    <string name="Adrenal1">The human body contains two adrenal glands, which belong to the endocrine system, and they secrete a number of hormones such as adrenaline and steroids such as aldosterone and cortisol. These two glands are located above the kidney, and each one has an outer cortex that produces steroid hormones and an inner core. The adrenal cortex is divided into three regions, which are in order from outside to inside: the glomerular region, the cystic region, and the retinal region.</string>
+
+
+
+
+    <string name="Ovary">Ovary</string>
+
+    <string name="Ovary1"> These are the female gonads, which are the primary sexual trait and responsible for the production of eggs and female sex hormones, such as estrogen, which is secreted from the follicle in the ovaries and progesterone, which is secreted from the corpus luteum in the ovaries, and the hormone estrogen works at the age of puberty and is responsible for the emergence of secondary female sexual characteristics Like the maturation of the breast glands and their filling with fat, the hormone progesterone is responsible for stabilizing and maintaining pregnancy. Each ovary is the size of a large tonsil: three centimeters long, two centimeters wide, and one centimeter thick. The ovaries are located separately in the abdominal cavity, opposite the fallopian tubes, and there is no anatomical connection between them.</string>
+
+
+
+    <string name="the_pituitary_gland">the pituitary gland</string>
+
+    <string name="the_pituitary_gland1">A gland located in a bony cavity in the human skull below the brain called the Sella turcica. It has 3 lobes of the front lobe (anterior pituitary), the posterior lobe (posterior pituitary) and the middle lobe. The anterior and middle lobe, known as the glandular segment, secrete specific hormones such as adrenocorticotropic hormone (ACTH), prolactin, growth hormone (GH), thyroid stimulating hormone (TSH), follicle stimulating hormone (FSH), and luteinizing hormone (LH), while the lobe The back stores the hormones secreted by the nervous part of the hypothalamus and regulates their secretion, it secretes the anti-diuretic hormone and oxytocin. The pituitary gland is considered one of the most important glands in the body and some call it the endocrine gland because it regulates the rest of the glands through the secretion of hormones and there is a relationship between it and the hypothalamus.</string>
+
+
+
+
+    <string name="Testis">Testis</string>
+
+    <string name="Testis1">The testis is made of seminal tubules, between them there are interstitial cells that secrete the hormone testosterone, and inside each sperm tube there are cells called sertoli cells that secrete fluid that nourishes the sperm inside the testicle and is believed to have an immune function as well.
+
+There are cells lining each seminiferous tube called maternal germ cells (2n). These cells divide and eventually form sperm.
+
+The testicles function best at a temperature just below normal body temperature, which is why the testicles are located outside the body cavity. There are a number of mechanisms for keeping the testicles at the optimum temperature. The testicles cover the scrotum, which hangs outside the abdominal cavity, and the testicles moved to it during the first months of pregnancy, and staying in this position makes their temperature less than the body temperature to suit the process of sperm formation
+
+</string>
+
+
+
+    <string name="Thymus_gland">Thymus gland</string>
+
+    <string name="Thymus_gland1">It is an endocrine gland located on the trachea above the heart behind the sternum, it is large in children and continues to atrophy throughout adolescence because its size decreases when the gonads begin to mature and secrete, this gland secretes the hormone Thymosin, which regulates the building of immunity in the body and helps the production of lymphocytes And it supervises the regulation of immunity in the body. In it the differentiation of T cells, and it is believed that this gland and its secretion have a role in human language learning [what is it?], And that hypothesis is supported by the speed of the child\'s acceptance of language learning, and in particular the correct pronunciation method, while the adult is unable to master Correct pronunciation, regardless of the degree of his mastery of the languages ​​he later learns in terms of vocabulary, grammar, strength of meanings and style.
+
+</string>
+
+
+    <string name="Thyroid">Thyroid</string>
+
+    <string name="Thyroid1">It is one of the most prominent glands of the body and is known to secrete thyroxine, which is the main hormone of the thyroid gland and is essential for metabolism and growth. It consists of two lobes, and it contains special cells located in its lining called cystocytes, and these cells are responsible for the secretion of thyroid hormones (thyroxine and triiodothyronine). This gland is considered an endocrine gland (its secretions enter the blood directly without the need for special channels to transport it).
+
+</string>
+
+
+<string name="Red_blood_cells">Red blood cells</string>
+
+<string name="Red_blood_cells1"> A type of blood cell, which is the most frequently mentioned. These cells are the main vehicle for vertebrates to deliver oxygen to the tissues of the body by the blood flow in the systemic circulation. Red blood cells take in oxygen in the lungs, and release it in tissues as they pass through the capillaries. The cytoplasm of red cells is rich in hemoglobin, a vital molecule containing iron that binds oxygen and is responsible for the red color of cells and blood. The cell membrane consists of proteins and lipids, and this structure provides properties essential to cell function
+
+Physiological such as the ability to change shape and fragility during transit of the circulatory system and especially the capillary network. Mature red blood cells in humans form flexible, concave elliptical discs. The red cells lack the cell nucleus and most of the organelles, in order to leave the maximum area for hemoglobin, "hemoglobin", as they can be considered as conservatives of the plasma membrane inside the hemoglobin. Approximately 2.4 million new blood cells are produced per second in adult humans. Cells develop in the bone marrow and circulate for about 100-120 days in the body before their components are recycled by macrophages. Each cycle in the human body takes about 60 seconds (1 minute). Red blood cells make up about 84% of A.
+
+The cells in the human body have between 20 and 30 trillion red blood cells. Red blood cells make up nearly half of the blood volume, as the hematocrit is estimated for an adult male (38-46%) and an adult female (35-44%).
+
+</string>
+
+
+
+
+    <string name="White_blood_cells"> White blood cells</string>
+
+    <string name="White_blood_cells1">It is one of the main blood cells in addition to the red cell and platelets.
+
+The main function of these cells is to defend the body against infectious diseases, and they are part of the immune system. They are cells of the immune system and their function is to defend the body against all infectious diseases and substances that excite the immune system. There are many different types of leukocytes, but they all consist of a pluripotent stem cell in the bone marrow known as a hematopoietic stem cell.Leukocyte count in the blood is often an indicator of disease. There are usually between 4,000-11,000 white blood cells in a microliter of blood, which is approximately 1% of the blood in a healthy adult. When the body is attacked by antigens, this number increases slightly. In cases such as leukemia, the white blood cell count is higher than normal, and in leukopenia, this number is much lower. The physical properties of leukocytes, such as size, conductivity, and granularity, may change due to activation or due to the presence of immature or malignant cells as in leukemia.
+
+</string>
+
+
+    <string name="bone_marrow">bone marrow</string>
+
+    <string name="bone_marrow1">Biological semi-solid tissue found within the spongy parts of long bones, and is the main site for the production of new blood cells "hematopoiesis" in birds and mammals, bone marrow consists of blood-producing stem cells, adipose and other supporting tissues, and in adults it is found mainly in the bones of the ribs and pelvis The sternum and vertebrae, and it constitutes approximately 4% of the body weight on an average, and it is approximately 2.6 kg when a person weighing 65 kg
+The bone marrow produces approximately 500 billion blood cells daily that enter circulation through special venous sinuses
+All blood components and cells are produced in the bone marrow. However, some types of blood, such as lymphocytes, must migrate outside the bone marrow to other lymphoid organs in order for them to fully mature and be able to function.
+
+</string>
+
+
+    <string name="Lymph_node">Lymph node</string>
+
+    <string name="Lymph_node1">They are swellings that appear on the path of the lymph vessels that have important functions in the defense of the body to form types of immune cells. The human body contains a large number of lymph nodes penetrated by the lymph in addition to the blood, and their total weight ranges between 600-700g. The lymph is supplied to the lymph nodes through the incoming lymph channels that flow into the sinus sous capsulaire and this pocket contains a disjointed network of Lache rich in macrophages.
+
+1- Phagocytes are found in large numbers in the lymph nodes and engulf bacteria and foreign bodies present in the lymph.
+
+2- B and T cells provide specific immune reactions.
+
+</string>
+
+
+    <string name="skin">skin</string>
+
+    <string name="skin1">The outer envelope of the human body, which is the largest organ of the human body, which covers the entire human body, and is the membrane or organ that coats the outer body of the human being and its main function is to protect the body completely through its physical properties, as it resists wetness and at the time The same prevents the penetration of existing fluids into various tissues of the human body.
+The skin contains seven layers of epidermal tissue and protects muscles, bones, ligaments, and internal organs.
+Human skin is very similar to pig skin. He may appear hairless. There are two general types of skin, hairy and (hairless) skin. Because it interferes with the environment, the skin plays an important role in protecting the body from pathogens and excess water Its other functions are insulation, temperature regulation, sensation, production of vitamin D, and vitamin B protection. Severely damaged skin will try to heal by forming scar tissue. This often changes color and decreases pigment.
+In humans, the skin is pigmented in the population, and the skin type can range from dry to oily. This type of skin provides a rich and diverse habitat for bacteria that contain approximately 1,000 species from 19 trees, found on human skin.
+
+</string>
+
+
+
+
+
+
+
+
+</resources>

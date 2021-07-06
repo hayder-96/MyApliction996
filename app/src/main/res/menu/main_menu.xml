@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/adl"
+         android:title="الجهاز العضلي"/>
+
+    <item android:title="الجهاز العصبي"
+        android:id="@+id/asb"/>
+
+    <item android:title="الجهاز الهضمي"
+        android:id="@+id/had"/>
+
+    <item android:title="الجهاز التنفسي"
+        android:id="@+id/tanfsi"/>
+
+    <item android:title="الجهاز الدوراني"
+        android:id="@+id/dwrani"/>
+
+    <item android:title="الجهاز العظمي"
+        android:id="@+id/boens"/>
+
+    <item android:title="الجهاز المناعي"
+        android:id="@+id/menae"/>
+
+
+
+
+</menu>
